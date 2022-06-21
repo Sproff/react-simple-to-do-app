@@ -84,7 +84,11 @@ body {
 .container {
   background: #fff;
   margin: 1rem 0;
-  padding: 2rem;
+  padding: 2rem 4rem;
+}
+
+.container h3 {
+  margin-bottom: 2rem;
 }
 
 .edit {
@@ -104,4 +108,13 @@ body {
 
 .error {
   color: #a94442;
+}
+
+.rdt_TableRow {
+  padding: 1.2rem 0.9rem;
+  border-bottom-style: none!important;
+}
+
+.rdt_TableCell div {
+  white-space: normal!important;
 }

@@ -1,4 +1,4 @@
-import { GetData } from "../components/getData/GetData";
+import { GetData } from "./GetData";
 import { Hero } from "../components/hero/Hero";
 import { MainLayout } from "../layouts/MainLayout";
 
